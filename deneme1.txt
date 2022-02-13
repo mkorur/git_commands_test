@@ -1,2 +1,3 @@
 Merhaba bu deneme1 bir yazidir.
 Bu satur sonradan eklendi.
+Merhaba pull ve push ogreniyoruz.
